@@ -4,9 +4,9 @@ description: Tony Geraci, a top Real Estate Agent in Ohio, shares his own intern
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team/
+    url: http://joinhomestar.com/
   - title: Events
-    url: #
+    url: http://joinhomestar.com/live-classes/
   - title: Free Strategy Call
     url: /contact/
 client:
