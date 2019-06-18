@@ -3,7 +3,7 @@ youtube_code: 'https://youtu.be/dGxtRFDFWzY'
 excerpt: >-
   Learn how our tips, tools, and insight into the market can help you advance
   your career in real estate!
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2019/YouTube+Trailer.mp4'
 pullquote:
 enclosure_type:
 enclosure_time:
