@@ -1,5 +1,5 @@
 ---
-youtube_code:
+youtube_code: 'https://youtu.be/dGxtRFDFWzY'
 excerpt: >-
   Learn how our tips, tools, and insight into the market can help you advance
   your career in real estate!
@@ -14,6 +14,8 @@ title: Welcome To My Blog
 date: 2019-05-30 00:00:00
 tags:
 ---
+
+{% include youtube.html %}
 
 If you're thinking about becoming involved in real estate professionally, we are looking to expand our team.
 
