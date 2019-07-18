@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/KzJBiVZ8NLM'
 
 {% include youtube.html %}
 
-If you want to get more leads without spending a ton of money, try these three simple methods.
+<p style="text-align: center;"><em>If you want to get more leads without spending a ton of money, try these three simple methods.</em></p>
 
 If you want to get a lot of leads without spending a lot of money, you’ll be happy to know that this is definitely possible. There are three main lead sources we recommend if you want to generate more business without putting too much of a strain on your wallet:
 
