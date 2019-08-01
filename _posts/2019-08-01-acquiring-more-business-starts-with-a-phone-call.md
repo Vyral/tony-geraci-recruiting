@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/R4e1I2Psby0'
 
 {% include youtube.html %}
 
-If you’re out of ideas for finding new business, look no further than today’s message.
+<p style="text-align: center;"><em>If you’re out of ideas for finding new business, look no further than today’s message.</em></p>
 
 Like so many other agents, perhaps you wake up each morning asking yourself, **“What do I need to do today to get more business?”&nbsp;**
 
