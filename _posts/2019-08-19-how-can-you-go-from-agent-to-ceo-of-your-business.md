@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/YBaU0YHAeLw'
 
 {% include youtube.html %}
 
-There are three steps you need to take if you want to go from being an agent to the CEO of your business.
+<p style="text-align: center;"><em>There are three steps you need to take if you want to go from being an agent to the CEO of your business.</em></p>
 
 I’ve been in the real estate business for 27 years, and I started my own office 21 years ago. In that time, we’ve grown to over 400 agents, closed an average of 2,000 transactions per year, and earned over $7 million in commission and $300 million in sales per year.&nbsp;
 
