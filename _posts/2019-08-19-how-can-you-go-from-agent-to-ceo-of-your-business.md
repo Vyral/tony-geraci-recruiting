@@ -8,13 +8,13 @@ excerpt: >-
   There are three steps you need to take if you want to go from being an agent
   to the CEO of your business.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2019/Century+21+HomeStar+_+Always+Remember+You+are+Doing+a+Great+Job!.mp4
+  https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2019/Century+21+HomeStar+_+How+to+Go+From+Agent+to+CEO+of+Your+Real+Estate+Business.mp4
 pullquote: Being a CEO means wearing many different hats.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/YBaU0YHAeLw'
+youtube_code: 'https://youtu.be/lAyqNewk9bM'
 ---
 
 {% include youtube.html %}
