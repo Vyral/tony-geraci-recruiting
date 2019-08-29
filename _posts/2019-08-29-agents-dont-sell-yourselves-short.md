@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/YBaU0YHAeLw'
 
 {% include youtube.html %}
 
-It’s easy to feel like you’re at fault when clients have a meltdown, but today I’d like to remind you that you’re doing a great job.
+<p style="text-align: center;"><em>It’s easy to feel like you’re at fault when clients have a meltdown, but today I’d like to remind you that you’re doing a great job.</em></p>
 
 It’s easy to focus on the negatives, and this definitely holds true when we think about our own careers. This kind of self-doubt is especially common among real estate agents.
 
