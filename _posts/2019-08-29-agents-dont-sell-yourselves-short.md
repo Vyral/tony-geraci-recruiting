@@ -32,7 +32,7 @@ It isn’t always easy to remember this, though. When buyers or sellers start ta
 
 {% include pullquote.html %}
 
-Sometimes when people are faced with stress, they’ll take it out on the nearest target. And, as you know well, real estate transactions can be very stressful. Therefore, it’s no wonder that agents sometimes face the wrath of disgruntled clients, even when they’ve done nothing wrong.
+Sometimes when people are faced with stress, they take it out on the nearest target. And, as you know well, real estate transactions can be very stressful. Therefore, it’s no wonder that agents sometimes face the wrath of disgruntled clients, even when they’ve done nothing wrong.
 
 This is why taking a step back from time to time is so important. As an agent, you’re providing an incredible service. **You’re helping connect people with homes. You’re helping families make major life changes, and that’s the sort of thing that’s bound to make emotions run high.&nbsp;**
 
