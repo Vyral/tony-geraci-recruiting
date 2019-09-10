@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/c4sAal1v4CE'
 
 {% include youtube.html %}
 
-In the third episode of our “Real Estate Leaders” series, we’ll zero in on the three keys to success in real estate: goals, commitment, and focus. Stay tuned\!
+<p style="text-align: center;"><em>In the third episode of our “Real Estate Leaders” series, we’ll zero in on the three keys to success in real estate: goals, commitment, and focus. Stay tuned!</em></p>
 
 Welcome to episode No. 3 of “Real Estate Leaders”\! As you might know, I’ve been in this business for more than 27 years and I’m currently a coach and mentor to over 400 agents.
 
@@ -28,4 +28,4 @@ In those 27 years, I’ve seen many agents come and go, but I’ve learned that 
 
 True success comes from being able to master each of these three factors and understanding how they all tie together. Joining me to provide their keen insight into this topic today are my friends and business allies Mike Ferrante and Dave Fanale.
 
-If you have any questions about how you can refine these three areas of your business, please reach out to me anytime. I’d be happy to help\!<br>&nbsp;
+If you have any questions about how you can refine these three areas of your business, please reach out to me anytime. I’d be happy to help\!
