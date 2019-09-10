@@ -28,4 +28,6 @@ In those 27 years, I’ve seen many agents come and go, but I’ve learned that 
 
 True success comes from being able to master each of these three factors and understanding how they all tie together. Joining me to provide their keen insight into this topic today are my friends and business allies Mike Ferrante and Dave Fanale.
 
+The video above is just a shortened version of the full conversation. To see it all, <a href="https://youtu.be/hgH0c0U9HNk" target="_blank">click here.</a>
+
 If you have any questions about how you can refine these three areas of your business, please reach out to me anytime. I’d be happy to help\!
