@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/gfz1XwW86w0'
 
 {% include youtube.html %}
 
-By using video, you’ll get more FSBOs and expired listings, be able to farm an area in your social network to show your expertise, and convert more online leads.
+<p style="text-align: center;"><em>By using video, you’ll get more FSBOs and expired listings, be able to farm an area in your social network to show your expertise, and convert more online leads.</em></p>
 
 How can you use video to differentiate yourself from other Realtors? Today I’ll answer this question by explaining how videos will help you get more FSBOs and expired listings, farm an area in your social network to show your expertise, and convert more online leads.
 
