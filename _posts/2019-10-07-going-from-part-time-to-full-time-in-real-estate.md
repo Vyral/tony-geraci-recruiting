@@ -23,4 +23,4 @@ First, go through your budget and figure out how much money you need to make to 
 
 Next, you need to be prepared to contribute a lot of your time toward this goal.
 
-To watch the full interview, click [here.](youtu.be/7MG9CeRTYMc){: target="_blank"}
+To watch the full interview, click [here.](https://www.youtu.be/7MG9CeRTYMc){: target="_blank"}
