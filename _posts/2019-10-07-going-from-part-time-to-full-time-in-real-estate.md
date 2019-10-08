@@ -4,7 +4,8 @@ title: How to Move From Part-Time to Full-Time
 date: 2019-10-07 20:08:40
 tags:
   - Transaction Management
-excerpt:
+excerpt: >-
+  Today I'll share a few tips for how to move from being a part-time real estate agent to a full-time one.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2019/Century+21+HomeStar+_+How+to+Go+From+Part-Time+to+Full-Time.mp4
 pullquote:
@@ -16,6 +17,8 @@ youtube_code: 'https://youtu.be/w01xjfR2vnE'
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Today I'll share a few tips for how to move from being a part-time real estate agent to a full-time one.</em></p>
 
 How do you make the leap from a part-time agent to a full-time agent? I’ve coached hundreds of agents who’ve successfully made this transition, so I’ll share a few tips and strategies that will help you do the same.
 
