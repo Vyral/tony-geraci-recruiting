@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Going from part-time to full-time in real estate
+title: How to Move From Part-Time to Full-Time
 date: 2019-10-07 20:08:40
 tags:
   - Transaction Management
@@ -24,3 +24,5 @@ First, go through your budget and figure out how much money you need to make to 
 Next, you need to be prepared to contribute a lot of your time toward this goal.
 
 To watch the full interview, click [here.](https://www.youtu.be/7MG9CeRTYMc){: target="_blank"}
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
