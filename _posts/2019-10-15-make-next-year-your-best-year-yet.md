@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/GrJMXJaKrAg'
 
 {% include youtube.html %}
 
-If you haven’t started planning for 2020, now’s the time to get to work. Here’s why.&nbsp;
+<p style="text-align: center;"><em>If you haven’t started planning for 2020, now’s the time to get to work. Here’s why.</em></p>
 
 Have you started planning for 2020 yet? Every year, too many agents wait until next year to start organizing their business plan for next year.
 
