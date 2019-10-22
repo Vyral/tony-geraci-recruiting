@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/SxAnSiwqXQM'
 
 {% include youtube.html %}
 
-In order to build a successful real estate business, you need to have both the right systems and the right tools. Here’s how they help you generate more business.
+<p style="text-align: center;"><em>In order to build a successful real estate business, you need to have both the right systems and the right tools. Here’s how they help you generate more business.</em></p>
 
 Tools and systems are important for successful real estate agents to have, but it’s also important to realize that they are two different things.
 
