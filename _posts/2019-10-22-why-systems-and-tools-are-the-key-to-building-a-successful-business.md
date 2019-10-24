@@ -28,4 +28,4 @@ Tools are the things that you use, such as your CRM, your cell phone, and your s
 
 To see our full discussion of this topic, [click here.](https://youtu.be/DR8qr2ocE9k){: target="_blank"}
 
-&nbsp;
+If you have any further questions about implementing systems and tools or real estate in general, please feel free to contact me by phone or email. I look forward to hearing from you soon.
