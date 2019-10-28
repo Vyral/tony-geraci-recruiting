@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/bznOP9tgezU'
 
 {% include youtube.html %}
 
-Your SOI can be a huge asset to your business if managed properly. I’ll share some good tips with you today.
+<p style="text-align: center;"><em>Your SOI can be a huge asset to your business if managed properly. I’ll share some good tips with you today.</em></p>
 
 From day one until the end of your career, your sphere of influence will always be there. If you can grow that list every day and organize it effectively, it can lead to a ton of business over time.
 
