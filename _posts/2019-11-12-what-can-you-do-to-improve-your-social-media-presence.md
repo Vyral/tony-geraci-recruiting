@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-8---tony-geraci---yt.jpg
+youtube_alternate_image: /uploads/11-8---tony-geraci---yt-1.jpg
 youtube_code: JB5qNjCPx2g
 ---
 
