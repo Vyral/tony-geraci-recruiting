@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/d0oLLl7iKfI'
 
 {% include youtube.html %}
 
-Staying in touch with your database of past clients is one of the best ways to increase your referral business. Here are some tips to help you improve this area of your business.
+<p style="text-align: center;"><em>Staying in touch with your database of past clients is one of the best ways to increase your referral business. Here are some tips to help you improve this area of your business.</em></p>
 
 Referrals should be a huge source of business for any real estate professional. If it’s not a big part of your business, now is the perfect time to start making a plan for how to get more referrals in 2020.
 
