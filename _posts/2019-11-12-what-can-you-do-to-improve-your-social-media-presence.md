@@ -19,7 +19,7 @@ youtube_code: JB5qNjCPx2g
 
 {% include youtube.html %}
 
-If you’re planning your marketing plan for 2020, social media needs to be included. Here are some tips to help you get started.
+<p style="ext-align: center;"><em>If you’re planning your marketing plan for 2020, social media needs to be included. Here are some tips to help you get started.</em></p>
 
 It’s the perfect time of year to start your marketing plan for 2020 if you haven’t already. Today I’m going to show you how to take the social media aspect of that marketing to the next level.
 
