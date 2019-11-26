@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/dcI0pV3vqv0'
 
 {% include youtube.html %}
 
-As a real estate agent, having the right attitude and mindset is important, but being consistent with them is even more so.
+<p style="text-align: center;"><em>As a real estate agent, having the right attitude and mindset is important, but being consistent with them is even more so.</em></p>
 
 Three of the most important things that successful agents have is confidence, the right attitude, and the right mindset.
 
