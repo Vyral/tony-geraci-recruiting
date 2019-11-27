@@ -24,6 +24,6 @@ Three of the most important things that successful agents have is confidence, th
 
 I’m sure you’ve heard all of this before, but I’m putting my own unique spin on it for you today. You may have the right attitude and mindset from time to time, but being consistent is a whole different challenge.
 
-Having the right body language and affirmations is a good place to start.
+Having the right body language and affirmations is a good place to start. To find out what else you can do to improve your mindset, check out the video above.
 
 If you have any further questions about improving your attitude or real estate in general, feel free to call me or send me an email. I look forward to hearing from you soon.
