@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/lZPwGCUZ__c'
 
 {% include youtube.html %}
 
-Here are five great marketing tips that you need to implement into your business ASAP.
+<p style="text-align: center;"><em>Here are five great marketing tips that you need to implement into your business ASAP.</em></p>
 
 Today I’m bringing you five great marketing tips and tricks that I encourage you to implement into your business right away. If you’ve found yourself spending lots of time and money on your marketing efforts, these tips will be invaluable to your success.
 
