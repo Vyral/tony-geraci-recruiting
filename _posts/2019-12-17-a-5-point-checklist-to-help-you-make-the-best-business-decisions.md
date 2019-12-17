@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/GRsj4Fh6Rx0'
 
 {% include youtube.html %}
 
-I’ve made many mistakes throughout my career, so I want to help you avoid them. Here’s how my five-point checklist can help.
+<p style="text-align: center;"><em>I’ve made many mistakes throughout my career, so I want to help you avoid them. Here’s how my five-point checklist can help.</em></p>
 
 After being in the real estate business for 27 years, I’ve learned that if you don’t keep a checklist of all of the things that have gone wrong so that you don’t repeat them, you probably haven’t been in business for too long.
 
