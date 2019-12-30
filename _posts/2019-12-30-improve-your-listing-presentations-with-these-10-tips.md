@@ -19,7 +19,7 @@ youtube_code: HPj7tzSoqRo
 
 {% include youtube.html %}
 
-Here are 10 ways you can vastly improve the quality and outcome of your listing presentations.
+<p style="text-align: center;"><em>Here are 10 ways you can vastly improve the quality and outcome of your listing presentations.</em></p>
 
 To be successful in real estate, you need to get listings, and listing presentations are among the most important tools and systems you have as a Realtor if you want to get new business.
 
