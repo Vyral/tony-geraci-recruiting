@@ -20,7 +20,7 @@ youtube_code: SMacdcm_hfI
 
 {% include youtube.html %}
 
-If you want to reach your goals and fulfill your dreams, you need to know your “why.”
+<p style="text-align: center;"><em>If you want to reach your goals and fulfill your dreams, you need to know your “why.”</em></p>
 
 What is your “why”? In other words, what are your goals and dreams? Every day, you should get up knowing why you’re going to work and why you are who you are in your work life.
 
