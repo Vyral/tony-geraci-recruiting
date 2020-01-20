@@ -18,7 +18,7 @@ youtube_code: Du_iSctbGYc
 
 {% include youtube.html %}
 
-Agents: If you’re wondering how you can boost your business in the new year, these three tips are for you.
+<p style="text-align: center;"><em>Agents: If you’re wondering how you can boost your business in the new year, these three tips are for you.</em></p>
 
 Now that we’re a few weeks into the business year, do you feel like you started 2020 on the right foot? If not, today I’ll share three things you’ll need to keep in mind if you want to get your business booming in 2020.
 
