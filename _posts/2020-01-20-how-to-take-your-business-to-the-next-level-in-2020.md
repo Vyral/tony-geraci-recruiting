@@ -24,6 +24,6 @@ Now that we’re a few weeks into the business year, do you feel like you starte
 
 First of all, in the eight years that I’ve been in the industry, I’ve continuously heard people saying that wintertime is a slow period for real estate—but that’s just not true.
 
-Agents: take advantage of the fact that it’s easier to get ahold of prospects in the winter than during the summer.
+Agents: Take advantage of the fact that it’s easier to get ahold of prospects in the winter than during the summer.
 
 If you have any questions about calling prospects or are interested in improving your productivity, don’t hesitate to reach out. I’d love to help you.
