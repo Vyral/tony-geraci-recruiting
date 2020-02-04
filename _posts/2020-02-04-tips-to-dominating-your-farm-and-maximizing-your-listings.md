@@ -18,7 +18,7 @@ youtube_code: t4U7vzj4MwA
 
 {% include youtube.html %}
 
-If you’re struggling to find clients, I have some helpful advice to share with you. Here are some different ways to help you win more listings.
+<p style="text-align: center;"><em>If you’re struggling to find clients, I have some helpful advice to share with you. Here are some different ways to help you win more listings.</em></p>
 
 If you’re an agent that’s focused on honing in on a certain area of the market, I’ve got some great advice to share with you today. I’ve helped many real estate professionals dominate their farms and maximize their listings. More listings equals more opportunities.
 
