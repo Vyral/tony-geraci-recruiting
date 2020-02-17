@@ -19,7 +19,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-There are many different reasons that real estate agents quit the business. Here are five of the most common.
+<p style="text-align: center;"><em>There are many different reasons that real estate agents quit the business. Here are five of the most common.</em></p>
 
 Not everyone has success in real estate, but many agents fail for the same reasons. In my 28 years of business, I’ve seen hundreds of agents come and go. There are five reasons, in particular, that most of these agents don’t last in the business. For example, some agents just run out of money because they’re not doing what they need to ensure future business.
 
