@@ -19,7 +19,7 @@ youtube_code: SMIZX6q8yuc
 
 {% include youtube.html %}
 
-*Here are four ways to improve your business by overcoming the incorrect mindset.*
+<p style="text-align: center"><em>Here are four ways to improve your business by overcoming the incorrect mindset.</em></p>
 
 Today I’m discussing how to book more appointments. Over the last few months we’ve examined how to prospect and improve your skills, but today I’m going over a few ways to get your mindset right to be able to line up more appointments.
 
