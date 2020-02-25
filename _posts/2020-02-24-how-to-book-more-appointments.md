@@ -21,9 +21,9 @@ youtube_code: SMIZX6q8yuc
 
 <p style="text-align: center"><em>Here are four ways to improve your business by overcoming the incorrect mindset.</em></p>
 
-Today I’m discussing how to book more appointments. Over the last few months we’ve examined how to prospect and improve your skills, but today I’m going over a few ways to get your mindset right to be able to line up more appointments.
+Over the last few months we’ve examined how to prospect and improve your skills, but today I’m going over a few ways to get your mindset right to be able to line up more appointments.
 
-As Realtors, there are four things I believe we need to overcome when you want to improve business. Fear is always first. You need to mend yourself of the fear of putting yourself out there.&nbsp;
+As Realtors, there are four things I believe we need to overcome when you want to improve business. Fear is always first. You need to rid yourself of the fear of putting yourself out there.&nbsp;
 
 If you have any questions about how to prospect or if you need help setting up appointments, don’t hesitate to reach out to me. I’d love to help you.
 
