@@ -19,7 +19,7 @@ youtube_code: BdMbnjX0TEk
 
 {% include youtube.html %}
 
-I’m sharing tips for how to achieve a better work-life balance for a healthier, happier life.
+<p style="text-align: center;"><em>I’m sharing tips for how to achieve a better work-life balance for a healthier, happier life.</em></p>
 
 Do you have a good work-life balance? This is one of the main things real estate agents think about when they get busy with work.
 
