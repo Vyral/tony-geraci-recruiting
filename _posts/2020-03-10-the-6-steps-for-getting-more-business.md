@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The importance of following up can’t be overstated, but how exactly do you
   finesse this part of the process? Here are six ways.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2020/Century+21+HomeStar+_+6+Ways+to+Generate+More+Business.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: 4fQfMsS0wDE
 
 {% include youtube.html %}
 
-The importance of following up can’t be overstated, but how exactly do you finesse this part of the process? Here are six ways.
+<p style="text-align: center;"><em>The importance of following up can’t be overstated, but how exactly do you finesse this part of the process? Here are six ways</em></p>.
 
 When it comes to physical properties, the well-known real estate axiom is “Location, location, location,” but for us Realtors actually in the business, the golden phrase is “Follow up, follow up, follow up.”
 
