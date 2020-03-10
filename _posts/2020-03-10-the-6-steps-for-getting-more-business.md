@@ -19,7 +19,7 @@ youtube_code: 4fQfMsS0wDE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The importance of following up can’t be overstated, but how exactly do you finesse this part of the process? Here are six ways</em></p>.
+<p style="text-align: center;"><em>The importance of following up can’t be overstated, but how exactly do you finesse this part of the process? Here are six ways</em></p>
 
 When it comes to physical properties, the well-known real estate axiom is “Location, location, location,” but for us Realtors actually in the business, the golden phrase is “Follow up, follow up, follow up.”
 
