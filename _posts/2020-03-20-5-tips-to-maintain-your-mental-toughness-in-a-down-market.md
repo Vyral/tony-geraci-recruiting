@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/8uvhkuzArnI'
 
 {% include youtube.html %}
 
-In times like these, we agents need mental toughness to maintain our business. Here’s how to help keep your mental toughness.
+<p style="text-align: center;"><em>In times like these, we agents need mental toughness to maintain our business. Here’s how to help keep your mental toughness.</em></p>
 
 It’s important to have mental toughness in a down market. With the coronavirus pandemic, we know the market will slow down in different ways.
 
