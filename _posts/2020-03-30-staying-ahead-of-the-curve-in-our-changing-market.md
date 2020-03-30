@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Our market is changing, but you don’t have to let the economy dictate what
   business you do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2020/Century+21+HomeStar+_+What+will+Happen+to+the+Real+Estate+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
