@@ -19,7 +19,7 @@ youtube_code: 2UKTflNdoWE
 
 {% include youtube.html %}
 
-Our market is changing, but you don’t have to let the economy dictate what business you do.
+<p style="text-align: center;"><em>Our market is changing, but you don’t have to let the economy dictate what business you do.</em></p>
 
 The coronavirus pandemic has had a tremendous impact on the global economy, and some interesting things are happening in our real estate market.
 
