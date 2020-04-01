@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m sharing tips and tricks on how to have a successful day in the real estate
   business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2020/Century+21+HomeStar+_+Daily+Schedule+for+Successful+Agents.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
