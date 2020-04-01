@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Daily Schedule for Successful Agents
-date: 2020-04-01 15:12:14
+date: 2020-04-01 15:12:00
 tags:
+  - Transaction Management
 excerpt: >-
   I’m sharing tips and tricks on how to have a successful day in the real estate
   business.
