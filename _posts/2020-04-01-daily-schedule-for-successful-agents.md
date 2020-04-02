@@ -21,6 +21,6 @@ youtube_code: 9pWU6tYT_Fk
 
 <p style="text-align: center;"><em>I’m sharing tips and tricks on how to have a successful day in the real estate business.</em></p>
 
-What do successful agents do with their schedule? Today I’m providing tips and tricks to have a prosperous day as a real estate agent. Everything we do each day will add to our success later on. However, this doesn’t mean that each day will result in a new sale or appointment.
+What do successful agents do with their schedule? Today I’m providing tips and tricks to have a prosperous day as a real estate agent. The things we do each day will add to our success later on. However, this doesn’t mean that each day will result in a new sale or appointment.
 
 As always, if you’d like additional information on the topics covered in today’s message, feel free to call or email me. I’d love to help.
