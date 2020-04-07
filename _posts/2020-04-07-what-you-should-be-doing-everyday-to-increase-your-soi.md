@@ -19,7 +19,7 @@ youtube_code: pYRSaaY4aJ8
 
 {% include youtube.html %}
 
-Today’s message is about how to bring the abstract goal of managing your social network into the realm of practicality by breaking it down into simple daily tasks. Here’s what you need to do.
+<p style="text-align: center;"><em>Today’s message is about how to bring the abstract goal of managing your social network into the realm of practicality by breaking it down into simple daily tasks. Here’s what you need to do.</em></p>
 
 I hope everyone is doing well and staying safe by staying home. I also hope that, despite the circumstances, your business is moving forward; it doesn’t have to be far, but every day you should strive for some kind of forward momentum. Today I’m going to share some of the things you need to be doing every single day to strengthen your social network and your business in turn.
 
