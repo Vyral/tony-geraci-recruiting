@@ -8,7 +8,8 @@ excerpt: >-
   Today’s message is about how to bring the abstract goal of managing your
   social network into the realm of practicality by breaking it down into simple
   daily tasks. Here’s what you need to do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tony+Geraci/2020/DAY+2+-+What+you+should+be+doing+today!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
