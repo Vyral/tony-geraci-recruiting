@@ -21,6 +21,6 @@ youtube_code: 0yGEOQZdHWE
 
 <p style="text-align: center;"><em>During times of crisis, many people worry about finances. Today I’m discussing how to financially survive during tough times.</em></p>
 
-Given what’s happening now with the health crisis, today’s topic is especially important: how to survive financially in difficult situations. With the current pandemic, if someone has only been in business for ten years or fewer, this may be the first time something out of their control has affected their business and income so severely.
+Given what’s happening now with the health crisis, today’s topic is especially important: how to survive financially in difficult situations. If someone has only been in business for 10 years or fewer, this pandemic may be the first time something out of their control has affected their business and income so severely.
 
 This economic upheaval happened extremely quickly, and today I’ll share how to keep afloat. To learn more about financial survival during major changes, watch my latest video.
